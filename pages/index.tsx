@@ -14,7 +14,7 @@ import { FiFigma, FiCode, FiBox } from 'react-icons/fi'
 const Home = () => {
   return (
     <>
-      <PageTemplate title="Home - codeNroot">
+      <PageTemplate title="Home - codeNroot Technologies">
         {/* Banner Section */}
         <section
           className="flex flex-col gap-10 items-center"
