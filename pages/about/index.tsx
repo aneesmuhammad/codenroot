@@ -36,7 +36,7 @@ const About = () => {
         </aside>
       </section>
       <LineDivider />
-      <section className="grid place-items-center gap-16">
+      {/* <section className="grid place-items-center gap-16">
         <div
           className="sm:w-10/12 md:w-8/12 lg:w-6/12 2xl:w-5/12 text-center"
           data-aos="zoom-in-up"
@@ -52,8 +52,8 @@ const About = () => {
           </div>
           <LogoList />
         </div>
-      </section>
-      <section className="grid place-items-center gap-16">
+      </section> */}
+      {/* <section className="grid place-items-center gap-16">
         <div
           className="sm:w-10/12 md:w-8/12 lg:w-6/12 2xl:w-5/12 text-center"
           data-aos="zoom-in-up"
@@ -107,7 +107,7 @@ const About = () => {
             />
           </div>
         </div>
-      </section>
+      </section> */}
     </PageTemplate>
   )
 }
