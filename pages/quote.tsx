@@ -10,14 +10,14 @@ import React from 'react'
 const Quote = () => {
   return (
     <>
-      <PageTemplate title='Send Quote - Collosal'>
+      <PageTemplate title='contact us - codeNroot'>
         <section className="grid grid-cols-1 place-items-center gap-5 lg:grid-cols-2">
           <aside className="w-full sm:w-10/12 md:w-8/12 grid grid-cols-1 place-items-center gap-12 lg:w-full lg:place-items-start" data-aos="fade-down-right">
             <div className="text-center lg:text-left">
               <PageSentence
                 title="Tell us about your problem and how we can help"
                 description="We are happy to help you, tell us what is the problem with your company, and we are ready to answer these problems. It usually takes a few minutes for us to respond."
-                badge="SEND QUOTE"
+                badge="contact us"
               />
             </div>
             <div className="w-fit">

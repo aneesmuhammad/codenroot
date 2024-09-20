@@ -14,7 +14,7 @@ import { FiFigma, FiCode, FiBox } from 'react-icons/fi'
 const Home = () => {
   return (
     <>
-      <PageTemplate title="Home - Collosal">
+      <PageTemplate title="Home - codeNroot">
         {/* Banner Section */}
         <section
           className="flex flex-col gap-10 items-center"
@@ -28,7 +28,7 @@ const Home = () => {
             />
           </div>
           <div className="flex flex-col gap-6 sm:flex-row w-full sm:w-fit">
-            <ButtonLink value="Send Quote" href="/quote" />
+            <ButtonLink value="contact" href="/quote" />
             <ButtonLink
               value="Learn More"
               color="white"
