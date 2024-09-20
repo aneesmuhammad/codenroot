@@ -62,7 +62,7 @@ const Home = () => {
           </div>
         </section>
         {/* Logo List */}
-        <LogoList />
+        {/* <LogoList /> */}
         {/* How We Work */}
         <section className="grid grid-cols-1 gap-6 sm:gap-8 place-items-center lg:grid-cols-2">
           <aside className="w-full h-[400px] relative" data-aos="fade-right">
@@ -116,7 +116,7 @@ const Home = () => {
         </section>
         <LineDivider />
         {/* Our Projects */}
-        <section className="flex flex-col gap-16 items-center">
+        {/* <section className="flex flex-col gap-16 items-center">
           <div
             className="text-center sm:w-10/12 md:w-8/12 lg:w-6/12"
             data-aos="zoom-in-up"
@@ -141,9 +141,9 @@ const Home = () => {
               />
             </div>
           </div>
-        </section>
+        </section> */}
         {/* Prices */}
-        <section className="flex flex-col gap-16 items-center">
+        {/* <section className="flex flex-col gap-16 items-center">
           <div
             className="text-center sm:w-10/12 md:w-8/12 lg:w-6/12"
             data-aos="zoom-in-up"
@@ -191,9 +191,9 @@ const Home = () => {
               />
             </div>
           </div>
-        </section>
+        </section> */}
         {/* Testimonial */}
-        <section className="flex flex-col gap-16 items-center">
+        {/* <section className="flex flex-col gap-16 items-center">
           <div className="text-center sm:w-10/12 md:w-8/12 lg:w-6/12" data-aos="zoom-in-up">
             <SectionSentence
               title="What do our clients say that we never let down?"
@@ -203,7 +203,7 @@ const Home = () => {
           <div className="w-full" data-aos="fade-up">
             <TestimonialList />
           </div>
-        </section>
+        </section> */}
       </PageTemplate>
     </>
   )
