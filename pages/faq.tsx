@@ -89,12 +89,12 @@ const Faq = () => {
                   setActiveFaq(randomFaqs[0])
                 },
               },
-              {
-                name: 'Transaction',
-                onClick: () => {
-                  setActiveFaq(randomFaqs[1])
-                },
-              },
+              // {
+              //   name: 'Transaction',
+              //   onClick: () => {
+              //     setActiveFaq(randomFaqs[1])
+              //   },
+              // },
               {
                 name: 'Maintenance',
                 onClick: () => {
