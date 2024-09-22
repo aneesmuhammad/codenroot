@@ -13,7 +13,7 @@ const Faq = () => {
       description: `We specialize in software development, consulting, hosting, and related technology solutions for businesses of all sizes.`,
     },
     {
-      title: `2. Do you work with clients globally?`,
+      title: `Do you work with clients globally?`,
       description: `Yes, we work remotely and serve clients worldwide, offering flexible collaboration options to meet your time zone and business needs.`,
     },
     {
@@ -42,7 +42,7 @@ const Faq = () => {
         description: `We specialize in software development, consulting, hosting, and related technology solutions for businesses of all sizes.`,
       },
       {
-        title: `2. Do you work with clients globally?`,
+        title: `Do you work with clients globally?`,
         description: `Yes, we work remotely and serve clients worldwide, offering flexible collaboration options to meet your time zone and business needs.`,
       },
       {
