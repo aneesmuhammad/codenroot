@@ -22,7 +22,7 @@ const Quote = () => {
             </div>
             <div className="w-fit">
               <ButtonLink
-                value="Ask Us"
+                value="FAQ"
                 href="/faq"
                 color="white"
                 style="light"

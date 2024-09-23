@@ -22,7 +22,7 @@ const Home = () => {
         >
           <div className="w-10/12 md:w-8/12 text-center">
             <PageSentence
-              title="We Design. We Develop. We Ship. In The Same Day."
+              title="We Design. We Develop. We Ship."
               description="We are committed to not making clients wait. We will deliver the work as quickly as possible. Even on the same day. Even so, we do not reduce the quality of our work."
               badge="CLIENT-DEVELOPMENT-DRIVEN"
             />
@@ -42,21 +42,21 @@ const Home = () => {
           <div data-aos="fade-up">
             <FeatureCard
               title="Design"
-              description="The project interface will be designed first, our favorite tool is Figma."
+              description="The project interface will be designed first, ensuring the project is properly structured before development begins"
               icon={<FiFigma />}
             />
           </div>
           <div data-aos="fade-up">
             <FeatureCard
               title="Develop"
-              description="Transform design and write business logic here. Choose the technology you want."
+              description="Transform the design and implement business logic with the most suitable technology."
               icon={<FiCode />}
             />
           </div>
           <div data-aos="fade-up">
             <FeatureCard
               title="Ship"
-              description="After the work is complete, we will send the project and all its assets to you."
+              description="After the work is complete, we will host your project and all its assets for you."
               icon={<FiBox />}
             />
           </div>
