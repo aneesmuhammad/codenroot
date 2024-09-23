@@ -25,28 +25,28 @@ const ServiceDetail = () => {
   }
   const faqs: Faq[] = [
     {
-      title: `How is the payment system?`,
-      description: `If the project has agreed, you will pay an advance, and when the progress reaches 50% you will make a second payment, and when the progress is 100% you will pay it off.`,
+      title: `What services does codeNroot Technologies offer?`,
+      description: `We specialize in software development, consulting, hosting, and related technology solutions for businesses of all sizes.`,
     },
     {
-      title: `Can I consult first?`,
-      description: `Of course you can consult us first. We are very happy to help your problems and provide our best solutions. You can contact us via the contact page.`,
+      title: `Do you work with clients globally?`,
+      description: `Yes, we work remotely and serve clients worldwide, offering flexible collaboration options to meet your time zone and business needs.`,
     },
     {
-      title: `What if the project stops halfway?`,
-      description: `We promise to always finish the project on time, if a problem occurs (because of our mistake), all payments will be refunded. And the project will be terminated.`,
+      title: `What technologies do you use?`,
+      description: `We use a variety of modern programming languages, frameworks, and tools, including Laravel, React, Node.js, Python, and more, based on the requirements of each project.`,
     },
     {
-      title: `Does it include servers and domains?`,
-      description: `You don't need to think about anything else, we have everything prepared. You just need to check your progress and make sure the features you want are the right one.`,
+      title: `How do you ensure the quality of your projects?`,
+      description: `We follow industry best practices, conduct rigorous testing, and maintain regular communication with clients to ensure quality and satisfaction.`,
     },
     {
-      title: `Will I get the source code?`,
-      description: `When the project is 100% complete, all the resources, such as design files, analysis diagrams, source code, etc. will be provided to you. You don't need to worry about this.`,
+      title: `Do you offer ongoing support and maintenance?`,
+      description: `Yes, we provide continuous support and maintenance to ensure your software runs smoothly after deployment.`,
     },
     {
-      title: `Is there a warranty?`,
-      description: `1 year warranty for our errors or mistakes. If you want to add a feature that is not included in the warranty, there is another fee per feature, and the price depends on the difficulty.`,
+      title: `How can I get a quote for my project?`,
+      description: `You can fill out the contact form on our website or email us at info@codenroot.in with your project details, and we’ll get back to you with a customized quote..`,
     },
   ]
   const features: FeatureCardProps[] = [
