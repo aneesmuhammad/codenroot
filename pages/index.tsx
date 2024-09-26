@@ -22,8 +22,8 @@ const Home = () => {
         >
           <div className="w-10/12 md:w-8/12 text-center">
             <PageSentence
-              title="We Design. We Develop. We Ship."
-              description="We are committed to not making clients wait. We will deliver the work as quickly as possible. Even on the same day. Even so, we do not reduce the quality of our work."
+              title="We Design. We Develop. We deploy."
+              description=" we prioritize efficiency without sacrificing quality. Our team ensures rapid delivery, often within the same day, while maintaining the highest standards in every project we undertake."
               badge="CLIENT-DEVELOPMENT-DRIVEN"
             />
           </div>
@@ -42,21 +42,21 @@ const Home = () => {
           <div data-aos="fade-up">
             <FeatureCard
               title="Design"
-              description="The project interface will be designed first, ensuring the project is properly structured before development begins"
+              description="We begin by thoughtfully designing the project’s interface, ensuring a solid foundation and organized structure is in place before development kicks off."
               icon={<FiFigma />}
             />
           </div>
           <div data-aos="fade-up">
             <FeatureCard
               title="Develop"
-              description="Transform the design and implement business logic with the most suitable technology."
+              description="In the development phase, we bring the design to life and implement business logic using the most appropriate technology for optimal performance."
               icon={<FiCode />}
             />
           </div>
           <div data-aos="fade-up">
             <FeatureCard
               title="Ship"
-              description="After the work is complete, we will host your project and all its assets for you."
+              description="We ensure a smooth deployment, carefully launching the solution with seamless integration and minimal disruption, while providing continuous support for optimal performance."
               icon={<FiBox />}
             />
           </div>
@@ -78,8 +78,8 @@ const Home = () => {
             data-aos="fade-left"
           >
             <SectionSentence
-              title="Everything is well planned, well designed and developed wholeheartedly"
-              paragraph="Careful planning makes us confident, developed with best practices so that the project can be maintained. We always test projects before they are shipped."
+              title="Every step is meticulously planned, thoughtfully designed, and developed with care."
+              paragraph="With thorough planning, we ensure confidence in our approach. Our development follows best practices, ensuring projects are easy to maintain and scalable. Rigorous testing is conducted before every launch, guaranteeing quality with every delivery."
               badge="HOW WE WORK"
             />
           </aside>
@@ -89,8 +89,8 @@ const Home = () => {
           <aside className="text-center sm:w-10/12 lg:text-left lg:w-full">
             <div className="space-y-12" data-aos="fade-right">
               <SectionSentence
-                title="We're a team of designers, engineers and analysts"
-                paragraph="Our team consists of many creative people. We are committed to maintaining quality work as well as speed. These creative people work together to create maximum work results."
+                title="We are a team of designers, engineers, and analysts fueled by creativity."
+                paragraph="Dedicated to providing high-quality work efficiently, our skilled team collaborates to deliver exceptional results at every stage of the process."
                 badge="OUR TEAM"
               />
               <ButtonLink
